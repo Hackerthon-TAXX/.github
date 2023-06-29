@@ -1,1 +1,1 @@
-## 1팀 - TAXX
+<img src = "/profile/screenshot/banner.png" >
